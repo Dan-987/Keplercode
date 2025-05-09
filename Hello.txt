@@ -1,1 +1,3 @@
-Hello, Git! I'm learning you in VS Code.
+Hello, Git! I'm learning you in VS Code. This is my second Code
+We're going to create the unforgettable project.
+
